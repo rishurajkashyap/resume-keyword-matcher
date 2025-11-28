@@ -1,1 +1,2 @@
-Looking for a Python developer with skills in automation, APIs, pandas and data processing.
+Looking for a Python developer with skills in pandas, API handling, and automation scripts.
+
